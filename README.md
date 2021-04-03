@@ -10,7 +10,7 @@ Current output on the overfit data itself:
 
 
 
-
+![alt text](https://github.com/parth-shastri/YOLOv2/blob/main/Figure_1.png?raw=true)
 
 
 
